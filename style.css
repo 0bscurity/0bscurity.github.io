@@ -5,6 +5,7 @@
 }
 body {
     font-family: DialogInput;
+    background-color: azure;
 }
 a {
     text-decoration: none;
@@ -28,7 +29,9 @@ li {
 .name {
     font-size: 32px;
 }
-
+.contact_info {
+    font-size: 15px;
+}
 /* nav menu */
 .menu {
     display: flex;
@@ -42,4 +45,9 @@ li {
 }
 .menu li {
     padding: 5px 14px;
+}
+.contacts {
+    text-align: center;
+    padding: 20px;
+
 }
