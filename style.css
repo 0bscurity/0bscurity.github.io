@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    font-family: cursive;
+    font-family: DialogInput;
 }
 a {
     text-decoration: none;
@@ -17,15 +17,15 @@ li {
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    background-color: teal;
+    background-color: dimgray;
     color: #fff;
 }
 .nav-links a {
     color: #fff;
 }
 
-/* logo */
-.logo {
+/* name */
+.name {
     font-size: 32px;
 }
 
