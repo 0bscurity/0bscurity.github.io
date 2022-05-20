@@ -64,3 +64,8 @@ li {
     box-sizing: border-box;
     overflow: hidden;
 }
+
+.resume-container {
+    position: relative;
+    overflow: hidden;
+}
