@@ -63,3 +63,5 @@ function setColorScheme() {
         }
     }
 }
+
+setColorScheme()
