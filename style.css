@@ -9,7 +9,7 @@ section {
 }
 body {
     font-family: DialogInput;
-    background-color: azure;
+    background-color: darkgray;
 }
 a {
     text-decoration: none;
@@ -38,7 +38,7 @@ article {
     -webkit-flex: 1;
     -ms-flex: 1;
     flex: 1;
-    background: lightblue;
+    background: lightgray;
     padding: 20px;
     text-align: center;
 }
